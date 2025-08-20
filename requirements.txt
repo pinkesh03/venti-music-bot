@@ -1,3 +1,3 @@
 pyrogram
 tgcrypto
-pytgcalls==0.0.5
+pytgcalls==3.0.0.dev6
